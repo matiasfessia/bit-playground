@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@material-ui/core": "4.11.0",
+    "@material-ui/utils": "^4.11.2"
+  }
+}
